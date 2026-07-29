@@ -72,4 +72,4 @@ Frontend (EC2-2) calls the Backend (Render) via public API URL.
 
 Jenkins (EC2-1) needs SSH access to EC2-2 (with PEM key or credentials).
 
-<img width="200" height="128" alt="WhatsApp Image 2026-07-27 at 7 27 23 PM" src="https://github.com/user-attachments/assets/8a542e4b-de15-49bc-9245-a01379e76779" />
+<img width="500" height="400" alt="WhatsApp Image 2026-07-27 at 7 27 23 PM" src="https://github.com/user-attachments/assets/8a542e4b-de15-49bc-9245-a01379e76779" />
