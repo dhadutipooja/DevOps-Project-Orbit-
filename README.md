@@ -1,4 +1,5 @@
-<img width="853" height="1280" alt="WhatsApp Image 2026-07-27 at 7 27 23 PM" src="https://github.com/user-attachments/assets/8a542e4b-de15-49bc-9245-a01379e76779" /># DevOps-Project-Orbit-
+ORBIT: Cloud & DevOps Hiring Hub
+
 Developed a web platform connecting freelancers with clients for project collaboration and hiring. Designed the frontend, implemented a CI/CD pipeline using Jenkins and GitHub, containerized the application with Docker, and deployed it on AWS EC2 and Render.
 🔧 Tools & Infrastructure Used
 VS Code – Code development
@@ -70,3 +71,5 @@ Jenkins may trigger Render deploy via GitHub or manual webhook (optional).
 Frontend (EC2-2) calls the Backend (Render) via public API URL.
 
 Jenkins (EC2-1) needs SSH access to EC2-2 (with PEM key or credentials).
+
+<img width="85" height="128" alt="WhatsApp Image 2026-07-27 at 7 27 23 PM" src="https://github.com/user-attachments/assets/8a542e4b-de15-49bc-9245-a01379e76779" /># DevOps-Project-Orbit-
